@@ -1,10 +1,11 @@
 
 ### Introduction
-> 来自南京邮电大学，现读大二
-> From Robocon Initial Team
+> 来自南京邮电大学，现读大二.
+>From Robocon Initial Team.
 
-  
+### Video
 [![Dyin](https://img.shields.io/badge/video-Dyin-594767?style=flat&logoColor=white)](https://www.douyin.com/user/MS4wLjABAAAAjlNUZf5cMzQM3dZYk2_lqX7rRADDF3KSrILbXb3eQyp7r2cKCioLAmiz3oez_s2n?from_tab_name=main)
+[![bilibili](https://img.shields.io/badge/video-bilibili-8AFFA6?style=flat&logoColor=white)](https://space.bilibili.com/441596512?spm_id_from=333.1387.0.0)
 
 ### Tech
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
