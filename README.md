@@ -9,6 +9,6 @@
 
 </div>
 
-![256C82C404D8643C9853B69ED9C55E17](image/256C82C404D8643C9853B69ED9C55E17.png)
+![封面](image/6494C205DC68BD51FB26A05C4E04EAE6.png)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=cha815.
