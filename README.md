@@ -1,4 +1,3 @@
-<div id="title" align=center>
 
 ### Introduction
 > 来自南京邮电大学，现读大二
